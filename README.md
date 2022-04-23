@@ -23,9 +23,9 @@
 ## 📚 Experiences:
 
 <p align="left">
-📌 Quality Assurance at MazzaFC Tecnologia da Informação(September 2021 - March 2022)
-<a href="https://www.xbrain.com.br/"> <br>📌 Junior Java Backend Developer at X-Brain Desenvolvimento de Sistemas (March 2022 - Currently) </a>
-</p>
+📌 I am a ReactJs and NodeJS programmer <br/>
+📌 I am a midel ReactJS and junior Nodejs programmer <br/>
+📌 I have been working as a Front end programmer at UITC IT CLUBS Academy since November 2021 <br/>
 
 ## <b> 📖 Knowledge:</b>
 
@@ -62,7 +62,6 @@
     -   <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=Postman" alt="Postman"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/-Visual Studio-bf90f3?style=flat&logo=Visual Studio" alt="Visual Studio"/></code>
 
 ## <b>📈 GitHub Stats:</b>
 
