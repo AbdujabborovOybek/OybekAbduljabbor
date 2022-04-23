@@ -35,6 +35,7 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 -   ### <b> Back-end: </b>
 
     - <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
 
     -   ### <b> Libraries and Frameworks </b>
         -   <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=SpringBoot" alt="Spring Boot"/></code>
@@ -43,10 +44,6 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
         -   <code><img height="25" src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=NestJS&logoColor=e0234e" alt="NestJS"/></code>
             
 
-    -   ### <b> Libraries and Frameworks </b>
-      
-        -   <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
-
 -   ### <b> DataBase: </b>
     -   <code><img height="25" src="https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=ff0107" alt="Oracle"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=MySQL" alt="MySQL"/></code>
@@ -54,12 +51,6 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=PostgreSQL" alt="PostgreSQL"/></code>
    
-
-### <b> Mobile: </b>
-  + <code><img height="25" src="https://img.shields.io/badge/Ionic-000000?style=flat&logo=Ionic" alt="Ionic"/></code>
-  + <code><img height="25" src="https://img.shields.io/badge/React Native-000000?style=flat&logo=React" alt="React"/></code>
-
-
 -   ### <b> Hostings: </b>
 
     -   <code><img height="25" src="https://img.shields.io/badge/Netlify-000?style=flat&logo=Netlify" alt="Netlify"/></code>
@@ -70,7 +61,6 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=Postman" alt="Postman"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/-Rider-f8883d?style=flat&logo=Rider&logoColor=black" alt="Rider"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-Visual Studio-bf90f3?style=flat&logo=Visual Studio" alt="Visual Studio"/></code>
 
 ## <b>📈 GitHub Stats:</b>
@@ -78,8 +68,6 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 <div align="left">
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekAbduljabbor&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-  
-  
   
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OybekAbduljabbor&layout=compact&theme=dracula&hide_border=true">
