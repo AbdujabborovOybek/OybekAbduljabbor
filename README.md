@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OybekAbduljabbor&theme=dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OybekAbduljabbor&theme=tokyonight_duo&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
 <div id="header" align="center">
