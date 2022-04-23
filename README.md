@@ -38,7 +38,6 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/HTML5-dd4b25?style=flat&logo=html5&logoColor=white" alt="HTML5"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></code>
   
-    <!-- + <code><img height="25" src="https://img.shields.io/badge/SASS-ce679a?style=flat&logo=sass&logoColor=white" alt="sass"/></code> -->
 
     *   ### <b> Libraries and Frameworks </b>
         -   <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code>
