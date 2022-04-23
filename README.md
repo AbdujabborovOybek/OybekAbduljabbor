@@ -19,7 +19,6 @@
 
 </p>
 
-My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil. I'm currently studying Analysis and systems development in <a href = "https://site.fatecfranca.edu.br/"> Fatec - Franca</a> and working at <a href = "https://www.xbrain.com.br/">X-Brain Desenvolvimento de Sistemas</a> as a Junior Java Backend Developer. I'm passionate for technology and want to work in CyberSecurity area but I also enjoy working with website creation using JavaScript, HTML and CSS. I want to learn C#, Java and other programming language. I like working with Back-end programming more than Front-end, so I focus my studies by learning Java and JavaScript more.
 
 ## 📚 Experiences:
 
@@ -32,27 +31,29 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+
+-   ### <b> Front-end: </b>
+
+    -   <code><img height="25" src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white" alt="CSS3"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/HTML5-dd4b25?style=flat&logo=html5&logoColor=white" alt="HTML5"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
+  
+        
+
 -   ### <b> Back-end: </b>
 
     - <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
 
-    -   ### <b> Libraries and Frameworks </b>
-        -   <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=SpringBoot" alt="Spring Boot"/></code>
-        - <code><img height="25" src="https://img.shields.io/badge/Spring Security-000000?style=flat&logo=SpringSecurity" alt="Spring Security"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=NestJS&logoColor=e0234e" alt="NestJS"/></code>
-            
 
 -   ### <b> DataBase: </b>
-    -   <code><img height="25" src="https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=ff0107" alt="Oracle"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=MySQL" alt="MySQL"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariaDB" alt="MariaDB"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=PostgreSQL" alt="PostgreSQL"/></code>
    
 -   ### <b> Hostings: </b>
-
     -   <code><img height="25" src="https://img.shields.io/badge/Netlify-000?style=flat&logo=Netlify" alt="Netlify"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Heroku-000?style=flat&logo=Heroku&logoColor=9f7cbe" alt="Heroku"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Google Cloud-000?style=flat&logo=GoogleCloud&logoColor=" alt="Google Cloud"/></code>
@@ -68,10 +69,6 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 <div align="left">
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekAbduljabbor&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-  
-  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OybekAbduljabbor&layout=compact&theme=dracula&hide_border=true">
-
-
 </div>
 
