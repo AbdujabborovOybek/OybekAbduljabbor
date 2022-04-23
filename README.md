@@ -4,16 +4,16 @@
 
 <p align="left">
 
-  <a href="https://www.instagram.com/gabrieltonhatti/">
+  <a href="https://www.instagram.com/oybekabduljabbor/">
     <code><img height="25" src="https://img.shields.io/badge/Instagram-d9408a?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrieltonhatti/" alt="Instagram"/></code>
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/oybek-abdujabborov-281611211/" alt="Linkedin">
     <code><img height="25" src="https://img.shields.io/badge/Linkedin-264de4?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/" alt="Linkedin"/></code>
   </a>
-  <a href="https://www.facebook.com/Gabriel.Tonhatti.1" alt="Facebook">
+  <a href="https://www.facebook.com/abdujabborovoybek/" alt="Facebook">
     <code><img height="25" src="https://img.shields.io/badge/Facebook-0178f8?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/Gabriel.Tonhatti.1" alt="Facebook"/></code>
   </a>
-  <a href="mailto:gabrieltonhatti37@gmail.com" alt="Gmail">
+  <a href="mailto:abdujabborovoybek@gmail.com" alt="Gmail">
     <code><img height="25" src="https://img.shields.io/badge/Gmail-FF0000?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></code>
   </a>
 
