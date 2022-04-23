@@ -1,4 +1,4 @@
-# <b> Hello, I am Gabriel! </b>
+# <b> Hello, I am Oybek Abdujabborov! </b>
 
 ## <b> 💬 About me:</b>
 
