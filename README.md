@@ -133,8 +133,8 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 
 [![GabrielTonhatti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OybekAbduljabbor&theme=tokyonight_duo&hide_border=true&date_format=%5BY.%5Dn.j)]
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OybekAbduljabbor&theme=tokyonight_duo&hide_border=true&date_format=%5BY.%5Dn.j)]
+  
+   
 
 </div>
 
