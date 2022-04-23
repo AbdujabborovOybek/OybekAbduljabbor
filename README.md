@@ -30,7 +30,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OybekAbduljabbor&theme=tokyonight_duo&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div id="header" align="center">
