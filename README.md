@@ -77,20 +77,13 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 
 <div align="left">
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTonhatti&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-<a href="https://github.com/GabrielTonhatti">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTonhatti&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true">
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekAbduljabbor&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+  
+  
+  
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OybekAbduljabbor&layout=compact&theme=dracula&hide_border=true">
 
-[![GabrielTonhatti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-  
-   
 
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=curso-angular&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/curso-angular)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=Linux&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/linux)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrielTonhatti&repo=curso-especialista-spring-rest&theme=dracula&show_owner=true&hide_border=true)](https://github.com/GabrielTonhatti/curso-especialista-spring-rest)
