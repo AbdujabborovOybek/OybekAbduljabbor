@@ -45,20 +45,10 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 -   ### <b> Back-end: </b>
 -   
             <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code>
-<!--     -   <code><img height="25" src="https://img.shields.io/badge/Java-aa1117?style=flat&logo=Java&logoColor=white" alt="Java"/></code> -->
-<!--     -   <code><img height="25" src="https://img.shields.io/badge/GraphQL-000?style=flat&logo=GraphQL&logoColor=df2fa0" alt="GraphQL"/></code> -->
-<!--     -   <code><img height="25" src="https://img.shields.io/badge/CSharp-white?style=flat&logo=CSharp&logoColor=68217a" alt="CSharp"/></code> -->
-<!--     -   <code><img height="25" src="https://img.shields.io/badge/Python-ffd546?style=flat&logo=python&logoColor=#ffd546" alt="Python"/></code> -->
 
     -   ### <b> Libraries and Frameworks </b>
-        -   <code><img height="25" src="https://img.shields.io/badge/Flyway-fff?style=flat&logo=Flyway&logoColor=ff0107" alt="Flyway"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/Hibernate-000000?style=flat&logo=hibernate" alt="Hibernate"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=SpringBoot" alt="Spring Boot"/></code>
-        <!-- - <code><img height="25" src="https://img.shields.io/badge/Spring Security-000000?style=flat&logo=SpringSecurity" alt="Spring Security"/></code>
+      
         -   <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/.NET-007cb9?style=flat&logo=.net" alt="Asp.Net"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/django-0a2e20?style=flat&logo=django" alt="django"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=NestJS&logoColor=e0234e" alt="NestJS"/></code> -->
 
 -   ### <b> DataBase: </b>
     -   <code><img height="25" src="https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=ff0107" alt="Oracle"/></code>
@@ -66,62 +56,34 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
     -   <code><img height="25" src="https://img.shields.io/badge/MariaDB-000000?style=flat&logo=mariaDB" alt="MariaDB"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=PostgreSQL" alt="PostgreSQL"/></code>
-    <!-- -   <code><img height="25" src="https://img.shields.io/badge/Redis-000000?style=flat&logo=Redis" alt="Redis"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/RabbitMQ-000000?style=flat&logo=RabbitMQ" alt="RabbitMQ"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/ArangoDB-000000?style=flat&logo=ArangoDB" alt="ArangoDB"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/Elasticsearch-000000?style=flat&logo=Elasticsearch&logoColor=00c0b3" alt="Elasticsearch"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/Microsoft SQL Server-000000?style=flat&logo=Microsoft SQL Server" alt="Microsoft SQL Server"/></code> -->
+   
 
-<!-- ### <b> Mobile: </b>
+### <b> Mobile: </b>
   + <code><img height="25" src="https://img.shields.io/badge/Ionic-000000?style=flat&logo=Ionic" alt="Ionic"/></code>
-  + <code><img height="25" src="https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin" alt="Kotlin"/></code>
-  + <code><img height="25" src="https://img.shields.io/badge/flutter-00529e?style=flat&logo=flutter&logoColor=25c6fc" alt="Flutter"/></code>
-  + <code><img height="25" src="https://img.shields.io/badge/React Native-000000?style=flat&logo=React" alt="React"/></code> -->
+  + <code><img height="25" src="https://img.shields.io/badge/React Native-000000?style=flat&logo=React" alt="React"/></code>
 
--   ### <b> Container: </b>
-
-    -   <code><img height="25" src="https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker" alt="Docker"/></code>
-    <!-- + <code><img height="25" src="https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=Kubernetes" alt="Kubernetes"/></code> -->
-
--   ### <b> Test: </b>
-
-    -   <code><img height="25" src="https://img.shields.io/badge/JUnit5-FFF?style=flat&logo=JUnit5" alt="JUnit5"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/Cypress-646466?style=flat&logo=Cypress" alt="Cypress"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/Swagger-000?style=flat&logo=Swagger" alt="Swagger"/></code>
-    <!--  - <code><img height="25" src="https://img.shields.io/badge/Jenkins-fff?style=flat&logo=Jenkins&logoColor=000" alt="Jenkins"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/Selenium-FFF?style=flat&logo=Selenium" alt="Selenium"/></code> -->
 
 -   ### <b> Hostings: </b>
 
     -   <code><img height="25" src="https://img.shields.io/badge/Netlify-000?style=flat&logo=Netlify" alt="Netlify"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/Vercel-000?style=flat&logo=Vercel" alt="Vercel"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/Heroku-000?style=flat&logo=Heroku&logoColor=9f7cbe" alt="Heroku"/></code>
-    <!-- - <code><img height="25" src="https://img.shields.io/badge/Google Cloud-000?style=flat&logo=GoogleCloud&logoColor=" alt="Google Cloud"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/Amazon aws-223040?style=flat&logo=Amazon-AWS&logoColor=fd9900" alt="Amazon aws"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/Microsoft Azure-000?style=flat&logo=Microsoft-Azure&logoColor=008ad7" alt="Microsoft Azure"/></code> -->
+    -   <code><img height="25" src="https://img.shields.io/badge/Google Cloud-000?style=flat&logo=GoogleCloud&logoColor=" alt="Google Cloud"/></code>
 
 -   ### <b> Tools: </b>
     -   <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/-Eclipse-ffffff?style=flat&logo=Eclipse&logoColor=2c2253" alt="Eclipse"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code>
     -   <code><img height="25" src="https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=Postman" alt="Postman"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/-DataGrip-8683e7?style=flat&logo=DataGrip&logoColor=black" alt="DataGrip"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/-Insomnia-fff?style=flat&logo=Insomnia&logoColor=624FC5" alt="Insomnia"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/AdobeXD-ff61f6?style=flat&logo=adobeXd&logoColor=450034" alt="AdobeXd"/></code>
-    <!--- <code><img height="25" src="https://img.shields.io/badge/-Rider-f8883d?style=flat&logo=Rider&logoColor=black" alt="Rider"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/-WebStorm-07adf4?style=flat&logo=WebStorm&logoColor=black" alt="WebStorm"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/-Visual Studio-bf90f3?style=flat&logo=Visual Studio" alt="Visual Studio"/></code> -->
-    -   <code><img height="25" src="https://img.shields.io/badge/-Spring Tool Suite-ffffff?style=flat&logo=Spring" alt="Spring Tool Suite"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/-Intellij IDEA Ultimate-fe265c?style=flat&logo=IntellijIDEA&logoColor=black" alt="Intellij IDEA Ultimate"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/-Rider-f8883d?style=flat&logo=Rider&logoColor=black" alt="Rider"/></code>
+    -   <code><img height="25" src="https://img.shields.io/badge/-Visual Studio-bf90f3?style=flat&logo=Visual Studio" alt="Visual Studio"/></code>
 
 ## <b>📈 GitHub Stats:</b>
 
 <div align="left">
 
-<!-- ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTonhatti&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true) -->
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTonhatti&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 <a href="https://github.com/GabrielTonhatti">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTonhatti&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true">
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true">
 
 [![GabrielTonhatti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GabrielTonhatti&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
