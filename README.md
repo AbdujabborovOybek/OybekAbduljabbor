@@ -32,19 +32,16 @@ My name's Gabriel Tonhatti Cardoso, I'm 20 years old, living in Franca-SP Brazil
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
--   ### <b> Front-end: </b>
-
-    -   <code><img height="25" src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white" alt="CSS3"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/HTML5-dd4b25?style=flat&logo=html5&logoColor=white" alt="HTML5"/></code>
-    -   <code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></code>
-  
-
-    *   ### <b> Libraries and Frameworks </b>
-        -   <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code>
-        -   <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
 -   ### <b> Back-end: </b>
--   
-            <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code>
+
+    - <code><img height="25" src="https://img.shields.io/badge/NodeJs-sucess?style=flat&logo=node.js&logoColor=black" alt="NodeJs"/></code>
+
+    -   ### <b> Libraries and Frameworks </b>
+        -   <code><img height="25" src="https://img.shields.io/badge/Spring Boot-000000?style=flat&logo=SpringBoot" alt="Spring Boot"/></code>
+        - <code><img height="25" src="https://img.shields.io/badge/Spring Security-000000?style=flat&logo=SpringSecurity" alt="Spring Security"/></code>
+        -   <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
+        -   <code><img height="25" src="https://img.shields.io/badge/NestJS-000000?style=flat&logo=NestJS&logoColor=e0234e" alt="NestJS"/></code>
+            
 
     -   ### <b> Libraries and Frameworks </b>
       
