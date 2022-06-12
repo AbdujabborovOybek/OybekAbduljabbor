@@ -32,7 +32,7 @@
 
 - ### <b> Front-end: </b>
 
-  - <code><img height="25" src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white" alt="CSS3"/></code> <code><img height="25" src="https://img.shields.io/badge/HTML5-dd4b25?style=flat&logo=html5&logoColor=white" alt="HTML5"/></code> <code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></code> <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code><code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white" alt="CSS3"/></code> <code><img height="25" src="https://img.shields.io/badge/HTML5-dd4b25?style=flat&logo=html5&logoColor=white" alt="HTML5"/></code> <code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></code> <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code><code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code> </code><code><img height="25" src="https://blog.skillfactory.ru/wp-content/uploads/2022/02/redux_logo-6253198.png" alt="Redux"/></code>
 
 - ### <b> Back-end: </b>
 
