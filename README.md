@@ -44,7 +44,7 @@
 
 - ### <b> Hostings: </b>
 
-  - <code><img height="25" src="https://img.shields.io/badge/Netlify-000?style=flat&logo=Netlify" alt="Netlify"/></code><code><img height="25" src="https://img.shields.io/badge/Heroku-000?style=flat&logo=Heroku&logoColor=9f7cbe" alt="Heroku"/></code> <code><img height="25" src="https://img.shields.io/badge/Google Cloud-000?style=flat&logo=GoogleCloud&logoColor=" alt="Google Cloud"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/Netlify-000?style=flat&logo=Netlify" alt="Netlify"/></code><code><img height="25" src="https://img.shields.io/badge/Heroku-000?style=flat&logo=Heroku&logoColor=9f7cbe" alt="Heroku"/></code> <code><img height="25" src="https://img.shields.io/badge/Google Cloud-000?style=flat&logo=GoogleCloud&logoColor=" alt="Google Cloud"/></code>  <code><img height="25" src="https://clients.ahost.uz/templates/allure/img/ahost-white.png" alt="@Host"/></code>
 
 - ### <b> Tools: </b>
   - <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code> <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code> <code><img height="25" src="https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=Postman" alt="Postman"/></code>
