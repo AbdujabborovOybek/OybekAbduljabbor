@@ -22,9 +22,9 @@
 ## 📚 Experiences:
 
 <p align="left">
-📌 I am a ReactJs and NodeJS programmer <br/>
-📌 I am a midel ReactJS and junior Nodejs programmer <br/>
-📌 I have been working as a Front end programmer at UITC IT CLUBS Academy since November 2021 <br/>
+📌 I am Fullstck web programmer <br/>
+
+
 
 ## <b> 📖 Knowledge:</b>
 
