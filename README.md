@@ -37,14 +37,12 @@
 
 </p>
 
+<br/>
 
 
-<p align="left">
-📌 I am Fullstck web programmer <br/>
 
-## <b> 📖 Knowledge:</b>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 
 
